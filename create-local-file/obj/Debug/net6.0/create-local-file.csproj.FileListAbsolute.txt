@@ -1,0 +1,17 @@
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\bin\Debug\net6.0\create-local-file.exe
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\bin\Debug\net6.0\create-local-file.deps.json
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\bin\Debug\net6.0\create-local-file.runtimeconfig.json
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\bin\Debug\net6.0\create-local-file.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\bin\Debug\net6.0\create-local-file.pdb
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.AssemblyInfoInputs.cache
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.AssemblyInfo.cs
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.csproj.CoreCompileInputs.cache
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\refint\create-local-file.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.pdb
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.genruntimeconfig.cache
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\ref\create-local-file.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.csproj.AssemblyReference.cache
+C:\Users\PSG\Desktop\local-auto-create-csfile\create-local-file\obj\Debug\net6.0\create-local-file.csproj.CopyComplete

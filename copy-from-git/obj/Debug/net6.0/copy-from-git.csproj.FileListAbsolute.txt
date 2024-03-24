@@ -1,0 +1,14 @@
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net6.0\copy-from-git.exe
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net6.0\copy-from-git.deps.json
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net6.0\copy-from-git.runtimeconfig.json
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net6.0\copy-from-git.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net6.0\copy-from-git.pdb
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\copy-from-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\copy-from-git.AssemblyInfoInputs.cache
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\copy-from-git.AssemblyInfo.cs
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\copy-from-git.csproj.CoreCompileInputs.cache
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\copy-from-git.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\refint\copy-from-git.dll
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\copy-from-git.pdb
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\copy-from-git.genruntimeconfig.cache
+C:\Users\PSG\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net6.0\ref\copy-from-git.dll
