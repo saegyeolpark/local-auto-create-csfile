@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("copy-from-git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9fc4b625a67d2cf26684e148d29a2c6a5c6a03c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f28e373ff8289f97a47fb5a1dfc790f935896c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("copy-from-git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("copy-from-git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
