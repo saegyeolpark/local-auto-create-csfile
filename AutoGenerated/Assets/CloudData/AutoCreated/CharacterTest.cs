@@ -11,7 +11,18 @@ namespace Glider.Core.SerializableData
 	{
 		public bool isFullFace;
 
-		public int[] partIds;
+		[SerializeField] private int[] partIds;
+		public int[] GetPartIds()
+		{
+			if(this.partIds == null) return null;
+			var dest = new int[partIds.Length];
+			Array.Copy(partIds, dest, partIds.Length);
+			return dest;
+		}
+		public void SetPartIds(int[] value)
+		{
+			this.partIds = value;
+		}
 
 		public string stringTest;
 
@@ -19,7 +30,7 @@ namespace Glider.Core.SerializableData
 		{
 			var crc = 2147483647;
 			crc ^= isFullFace.GetHashCode();
-			crc ^= partIds.GetHashCode();
+			for (int i = 0; i < partIds?.Length; i++) crc ^= i.GetHashCode() ^ partIds[i].GetHashCode();
 			if(stringTest!=null) crc ^= stringTest.GetHashCode();
 			return crc;
 		}

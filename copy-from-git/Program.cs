@@ -23,8 +23,8 @@ foreach(var dto_file in dto_fileInfos)
 var sheet_csFile = File.ReadAllText(git_dir + "/GliderGoogleSheetData.cs");
 //.WriteAllText(copy_dir + "/Function.cs", func_csFile);
 sheet_csFile = sheet_csFile.Replace("using AWS.Lambda.Powertools.Logging;", "")
-    .Replace("            Logger.LogInformation(\"[Log] 2\");", "")
-    .Replace("                Logger.LogInformation($\"[Log] 3 ${sheetName}\");", "");
+    .Replace("Logger.LogInformation(\"[Log] 2\");", "")
+    .Replace("Logger.LogInformation($\"[Log] 3 ${sheetName}\");", "");
 File.WriteAllText(copy_dir + "/GliderGoogleSheetData.cs", sheet_csFile);
 
 Console.WriteLine("-- finished --");

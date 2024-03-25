@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "GTlMrxN8v/WfF0VDmbl6+zGL9xDjosUrosD7LGY2uFAJnqtWwbnP4l0ctMaRk+hBL/B+ohlcSySl+gB2BPvNmQ==",
+  "dgSpecHash": "akKWceO8P2CAk9YOk8wrTQGLXJE0X+lTqnGmHwWjtXPkYV6VbjRULMurl3cg0F2BOHwW2HBfXZB/+TMgaXbqSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PSG\\Desktop\\local-auto-create-csfile\\copy-from-git\\copy-from-git.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\GAME DUO\\Desktop\\local-auto-create-csfile\\copy-from-git\\copy-from-git.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512",
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\GAME DUO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

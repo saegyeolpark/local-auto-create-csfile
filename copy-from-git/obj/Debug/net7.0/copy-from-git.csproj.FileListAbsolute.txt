@@ -1,0 +1,15 @@
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net7.0\copy-from-git.exe
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net7.0\copy-from-git.deps.json
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net7.0\copy-from-git.runtimeconfig.json
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net7.0\copy-from-git.dll
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\bin\Debug\net7.0\copy-from-git.pdb
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.AssemblyInfoInputs.cache
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.AssemblyInfo.cs
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.csproj.CoreCompileInputs.cache
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.sourcelink.json
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.dll
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\refint\copy-from-git.dll
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.pdb
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\copy-from-git.genruntimeconfig.cache
+C:\Users\GAME DUO\Desktop\local-auto-create-csfile\copy-from-git\obj\Debug\net7.0\ref\copy-from-git.dll

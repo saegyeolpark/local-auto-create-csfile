@@ -72,14 +72,5 @@ namespace Glider.Core.SerializableData
 			_crcCodes.Add(e.CreateCrdCode());
 			IsDirty = true;
 		}
-		public void SetPayload(ref List<string> keys, ref List<string> values)
-		{
-			if (IsDirty)
-			{
-				keys.Add("tests");
-				values.Add(JsonUtility.ToJson(this));
-				IsDirty = false;
-			}
-		}
 	}
 }

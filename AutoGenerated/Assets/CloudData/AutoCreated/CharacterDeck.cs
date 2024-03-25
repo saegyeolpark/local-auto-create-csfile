@@ -9,15 +9,37 @@ namespace Glider.Core.SerializableData
 	[Serializable]
 	public struct CharacterDeck
 	{
-		public EquipmentKey[] equipmentKeys;
+		[SerializeField] private EquipmentKey[] equipmentKeys;
+		public EquipmentKey[] GetEquipmentKeys()
+		{
+			if(this.equipmentKeys == null) return null;
+			var dest = new EquipmentKey[equipmentKeys.Length];
+			Array.Copy(equipmentKeys, dest, equipmentKeys.Length);
+			return dest;
+		}
+		public void SetEquipmentKeys(EquipmentKey[] value)
+		{
+			this.equipmentKeys = value;
+		}
 
-		public SkillKey[] skillKeys;
+		[SerializeField] private SkillKey[] skillKeys;
+		public SkillKey[] GetSkillKeys()
+		{
+			if(this.skillKeys == null) return null;
+			var dest = new SkillKey[skillKeys.Length];
+			Array.Copy(skillKeys, dest, skillKeys.Length);
+			return dest;
+		}
+		public void SetSkillKeys(SkillKey[] value)
+		{
+			this.skillKeys = value;
+		}
 
 		public int CreateCrdCode()
 		{
 			var crc = 2147483647;
-			crc ^= equipmentKeys.GetHashCode();
-			crc ^= skillKeys.GetHashCode();
+			for (int i = 0; i < equipmentKeys?.Length; i++) crc ^= i.GetHashCode() ^ equipmentKeys[i].GetHashCode();
+			for (int i = 0; i < skillKeys?.Length; i++) crc ^= i.GetHashCode() ^ skillKeys[i].GetHashCode();
 			return crc;
 		}
 	}

@@ -113,16 +113,32 @@ namespace Glider.Core.SerializableData
 
 		public void SetPayload(ref List<string> keys, ref List<string> values)
 		{
-			if (currency.IsDirty) currency.SetPayload(ref keys,ref values);
+			if (currency.IsDirty)
+			{
+				keys.Add("currency");
+				values.Add(JsonUtility.ToJson(currency));
+			}
 			if (_dirty.ContainsKey(FieldNameLevel) && _dirty[FieldNameLevel])
 			{
 				keys.Add(FieldNameLevel);
 				values.Add(JsonUtility.ToJson(level));
 				_dirty[FieldNameLevel] = false;
 			}
-			if (equipment.IsDirty) equipment.SetPayload(ref keys,ref values);
-			if (skill.IsDirty) skill.SetPayload(ref keys,ref values);
-			if (deck.IsDirty) deck.SetPayload(ref keys,ref values);
+			if (equipment.IsDirty)
+			{
+				keys.Add("equipment");
+				values.Add(JsonUtility.ToJson(equipment));
+			}
+			if (skill.IsDirty)
+			{
+				keys.Add("skill");
+				values.Add(JsonUtility.ToJson(skill));
+			}
+			if (deck.IsDirty)
+			{
+				keys.Add("deck");
+				values.Add(JsonUtility.ToJson(deck));
+			}
 			if (_dirty.ContainsKey(FieldNameWorld) && _dirty[FieldNameWorld])
 			{
 				keys.Add(FieldNameWorld);
@@ -135,8 +151,16 @@ namespace Glider.Core.SerializableData
 				values.Add(JsonUtility.ToJson(quest));
 				_dirty[FieldNameQuest] = false;
 			}
-			if (stat.IsDirty) stat.SetPayload(ref keys,ref values);
-			if (tests.IsDirty) tests.SetPayload(ref keys,ref values);
+			if (stat.IsDirty)
+			{
+				keys.Add("stat");
+				values.Add(JsonUtility.ToJson(stat));
+			}
+			if (tests.IsDirty)
+			{
+				keys.Add("tests");
+				values.Add(JsonUtility.ToJson(tests));
+			}
 		}
 
 	}
