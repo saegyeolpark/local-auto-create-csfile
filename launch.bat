@@ -3,7 +3,24 @@
 set git_path="C:\Users\GAME DUO\Desktop\auto-create-csfile"
 :: **********************************
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:: may not touch below
 set dotnet_version="net6.0"
+
 ::set current_path="C:\Users\GAME DUO\Desktop\local-auto-create-csfile"
 ::cd %current_path%
 
