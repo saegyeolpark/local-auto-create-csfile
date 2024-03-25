@@ -1,0 +1,25 @@
+{
+    "name": "Glider.Core.Auth",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:0d8e81f01ce67bb488708a4ea5799d9a",
+        "GUID:b2ff0c29e4a9a55448766c191fcd3a53",
+        "GUID:3729d45826058c9449b48077f1db2bdf",
+        "GUID:8654b06264a7ae342a0ceffd1636ea00",
+        "GUID:06120ed4ac866a54396407de593d19f9",
+        "GUID:b5d510df4654cc04e85d3b6b45c3f7a3",
+        "GUID:ba7afb8fde8d3464f97f34be3be24bd9",
+        "GUID:082ccb55631ff42458e4fbc825fabcee",
+        "GUID:8e2f40463d97c81418ad2062c59b63cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

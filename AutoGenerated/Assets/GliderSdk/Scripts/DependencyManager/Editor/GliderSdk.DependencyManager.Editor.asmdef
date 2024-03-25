@@ -1,0 +1,16 @@
+{
+    "name": "GliderSdk.DependencyManager.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6284a7d0a4ec16e468d5673f5db2efc5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a52a1603c164632b726c840757c0cab
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Bundles/Scripts/Pool
+- al_max_export_path-Glider/Bundles/Scripts/Pool
+- gd_glider
+- gd_glider_export_path-Glider/Bundles/Scripts/Pool
+- gd_glider_export_path-Glider/Core/Bundles/Scripts/Pool
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

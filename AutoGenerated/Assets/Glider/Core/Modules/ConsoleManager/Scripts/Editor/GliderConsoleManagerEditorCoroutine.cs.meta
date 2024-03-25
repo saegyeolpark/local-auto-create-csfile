@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 177f608f485ee2c498eace690810e94e
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/CenterManager/Editor/GliderCenterManagerEditorCoroutine.cs
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Editor/GliderCenterManagerEditorCoroutine.cs
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Scripts/Editor/GliderCenterManagerEditorCoroutine.cs
+- gd_glider_export_path-Glider/Core/Modules/ConsoleManager/Scripts/Editor/GliderCenterManagerEditorCoroutine.cs
+- gd_glider_export_path-Glider/Core/Modules/ConsoleManager/Scripts/Editor/GliderConsoleManagerEditorCoroutine.cs
+- gd_glider_export_path-Glider/Modules/CenterManager/Editor/GliderCenterManagerEditorCoroutine.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

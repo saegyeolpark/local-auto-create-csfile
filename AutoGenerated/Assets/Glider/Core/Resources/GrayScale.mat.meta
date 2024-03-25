@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7a9289f3985bfb49a7a1e5f1003734f
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Resources/GrayScale.mat
+- al_max_export_path-Glider/Resources/GrayScale.mat
+- gd_glider
+- gd_glider_export_path-Glider/Core/Resources/GrayScale.mat
+- gd_glider_export_path-Glider/Resources/GrayScale.mat
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

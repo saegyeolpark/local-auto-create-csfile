@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0faa866b440f577458ad5563a228169d
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/CloudData/AutoCreated/CharacterCurrencyCollection.cs
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/CloudData/AutoCreated/CharacterCurrencyWrapper.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

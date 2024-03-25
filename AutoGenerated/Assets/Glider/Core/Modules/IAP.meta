@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84a506b30e7b3ba458c00bd8c7d3585a
+labels:
+- al_max
+- al_max_export_path-Glider/Modules/Purchase
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/IAP
+- gd_glider_export_path-Glider/Core/Modules/Purchase
+- gd_glider_export_path-Glider/Modules/Purchase
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

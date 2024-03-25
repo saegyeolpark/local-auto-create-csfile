@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b2ff0c29e4a9a55448766c191fcd3a53
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Bundles/Glider.Bundles.asmdef
+- al_max_export_path-Glider/Bundles/Glider.Bundles.asmdef
+- gd_glider
+- gd_glider_export_path-Glider/Bundles/Glider.Bundles.asmdef
+- gd_glider_export_path-Glider/Core/Bundles/Glider.Bundles.asmdef
+- gd_glider_export_path-Glider/Core/Bundles/Glider.Core.Bundles.asmdef
+- gd_glider_export_path-Glider/Core/Scripts/Glider.Core.asmdef
+- gd_glider_export_path-Glider/Core/Scritps/Glider.Core.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

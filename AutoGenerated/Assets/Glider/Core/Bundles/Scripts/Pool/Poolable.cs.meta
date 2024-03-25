@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 684df600cdbf49858d7f93fa60004ca4
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Bundles/Scripts/Pool/Poolable.cs
+- al_max_export_path-Glider/Bundles/Scripts/Pool/Poolable.cs
+- gd_glider
+- gd_glider_export_path-Glider/Bundles/Scripts/Pool/Poolable.cs
+- gd_glider_export_path-Glider/Core/Bundles/Scripts/Pool/Poolable.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

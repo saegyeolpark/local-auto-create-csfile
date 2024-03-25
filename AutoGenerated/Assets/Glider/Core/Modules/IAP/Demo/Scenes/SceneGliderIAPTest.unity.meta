@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b062ab5177389c4082a7c4f48f8dc56
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Bundles/Scenes/SceneGliderIAPTest.unity
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Scenes/SceneGliderIAPTest.unity
+- gd_glider_export_path-Glider/Core/Modules/IAP/Scenes/SceneGliderIAPTest.unity
+- gd_glider_export_path-Glider/Core/Modules/Purchase/Bundles/Scenes/CoreSceneGliderIAPTest.unity
+- gd_glider_export_path-Glider/Core/Modules/Purchase/Bundles/Scenes/SceneGliderIAPTest.unity
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

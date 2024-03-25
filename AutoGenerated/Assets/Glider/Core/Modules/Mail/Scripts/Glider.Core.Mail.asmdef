@@ -1,0 +1,25 @@
+{
+    "name": "Glider.Core.Mail",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:082ccb55631ff42458e4fbc825fabcee",
+        "GUID:8654b06264a7ae342a0ceffd1636ea00",
+        "GUID:8e2f40463d97c81418ad2062c59b63cd",
+        "GUID:0bc76551a7c67be4b8769ac62b39050b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:0d8e81f01ce67bb488708a4ea5799d9a",
+        "GUID:b2ff0c29e4a9a55448766c191fcd3a53",
+        "GUID:ba7afb8fde8d3464f97f34be3be24bd9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

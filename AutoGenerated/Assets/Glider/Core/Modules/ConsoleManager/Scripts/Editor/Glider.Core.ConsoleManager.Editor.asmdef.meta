@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c3778bb6b67de0d4088bd1ade81fd473
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/IntegrationManager/Editor/MaxSdk.IntegrationManager.Editor.asmdef
+- gd_glider
+- gd_glider_export_path-Glider/Core/CenterManager/Editor/Glider.CenterManager.Editor.asmdef
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Editor/Glider.CenterManager.Editor.asmdef
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Scripts/Editor/Glider.CenterManager.Editor.asmdef
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Scripts/Editor/Glider.Core.CenterManager.Editor.asmdef
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Scripts/Glider.CenterManager.Editor.asmdef
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Scripts/Glider.Core.CenterManager.asmdef
+- gd_glider_export_path-Glider/Core/Modules/ConsoleManager/Scripts/Editor/Glider.Core.CenterManager.Editor.asmdef
+- gd_glider_export_path-Glider/Core/Modules/ConsoleManager/Scripts/Editor/Glider.Core.ConsoleManager.Editor.asmdef
+- gd_glider_export_path-Glider/Modules/CenterManager/Editor/Glider.CenterManager.Editor.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

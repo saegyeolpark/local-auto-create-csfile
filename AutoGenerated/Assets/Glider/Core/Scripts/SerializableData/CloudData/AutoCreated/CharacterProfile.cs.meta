@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 455008287c256c3429e21f7085d9641a
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/CloudData/AutoCreated/CharacterLevel.cs
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/CloudData/AutoCreated/CharacterProfile.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

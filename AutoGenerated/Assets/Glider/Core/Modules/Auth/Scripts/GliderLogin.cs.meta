@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afbec1237ded4d36af57b02caa72b962
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/GliderLogin.cs
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/LoginManager.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

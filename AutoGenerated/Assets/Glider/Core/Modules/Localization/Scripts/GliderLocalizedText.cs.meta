@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c2fdbd52b0894704e901d0b3a0d2a493
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Localization/Scripts/GliderLocalizedText.cs
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/Scripts/LocalizedText.cs
+- gd_glider_export_path-Glider/Core/Modules/Ui/Scripts/GliderLocalizedText.cs
+- gd_glider_export_path-Glider/Core/Modules/Ui/Scripts/LocalizedText.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

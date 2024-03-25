@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b5d510df4654cc04e85d3b6b45c3f7a3
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Modules/StaticData/Loader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Gameduo/Glider/Modules/StaticDataLoader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Gameduo/Glider/StaticDataLoader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Glider/Modules/StaticData/Loader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Glider/Modules/StaticData/Loader/Scripts/Glider.StaticDataLoader.asmdef
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/SerializableData/Glider.Auth.SerializableData.asmdef
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/SerializableData/Glider.Core.Auth.SerializableData.asmdef
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Loader/Scripts/SerializableData/Glider.StaticDataLoader.SerializableData.asmdef
+- gd_glider_export_path-Glider/Core/Scripts/StaticData/Loader/Scripts/Glider.StaticDataLoader.asmdef
+- gd_glider_export_path-Glider/Modules/StaticData/Loader/Scripts/Glider.StaticDataLoader.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3aa5240ce231172408ea78fb752995b6
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Nav/Glider.Core.Nav.asmdef
+- gd_glider_export_path-Glider/Modules/Nav/Glider.Core.Nav.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

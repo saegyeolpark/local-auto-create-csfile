@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a18b9a740850f98459cc86a682d7ec6c
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Fonts/NEXON Lv2 Gothic OTF Bold.otf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NEXON Lv2 Gothic OTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 86f750bca119e6e4aa23decc36a7aee4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

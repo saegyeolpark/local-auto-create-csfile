@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f662febd642248558c86d0966c689f5b
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/CloudData/InvalidCloudDataHashException.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

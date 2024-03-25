@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 584d37abc3984282a614a37715bd6179
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Modules/StaticData/Manager/StaticDataManager.cs
+- al_max_export_path-Glider/Modules/StaticData/Manager/Scripts/StaticDataManager.cs
+- al_max_export_path-Glider/Modules/StaticData/Manager/StaticDataManager.cs
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Manager/Scripts/StaticDataManager.cs
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Scripts/GliderStaticData.cs
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Scripts/StaticDataManager.cs
+- gd_glider_export_path-Glider/Core/Modules/StaticData/StaticDataManager.cs
+- gd_glider_export_path-Glider/Core/Scripts/StaticData/Manager/Scripts/StaticDataManager.cs
+- gd_glider_export_path-Glider/Demo/Modules/StaticData/Scripts/StaticDataManager.cs
+- gd_glider_export_path-Glider/Modules/StaticData/Manager/Scripts/StaticDataManager.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

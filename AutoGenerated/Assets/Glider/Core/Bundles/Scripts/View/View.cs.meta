@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 36d40dff66e747889973bc9e1af9649b
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Bundles/Scripts/View/View.cs
+- al_max_export_path-Glider/Bundles/Scripts/View/View.cs
+- gd_glider
+- gd_glider_export_path-Glider/Bundles/Scripts/View/View.cs
+- gd_glider_export_path-Glider/Core/Bundles/Scripts/View/View.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

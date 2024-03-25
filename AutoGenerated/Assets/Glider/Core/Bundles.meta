@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45a1d44a2c2df834c8fe3fe916b05563
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Bundles
+- al_max_export_path-Glider/Bundles
+- gd_glider
+- gd_glider_export_path-Glider/Bundles
+- gd_glider_export_path-Glider/Core/Bundles
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

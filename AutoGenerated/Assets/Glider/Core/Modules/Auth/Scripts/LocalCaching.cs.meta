@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2a3fdcd452c4974889fda23ce882ab0
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/Auth.cs
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/LocalAuth.cs
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/LocalCaching.cs
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/NewBehaviourScript.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

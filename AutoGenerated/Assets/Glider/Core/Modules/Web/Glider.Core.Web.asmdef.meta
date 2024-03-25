@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0d8e81f01ce67bb488708a4ea5799d9a
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Modules/StaticDataLoader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Gameduo/Glider/Modules/Toast/Glider.Toast.asmdef
+- al_max_export_path-Gameduo/Glider/StaticDataLoader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Glider/Modules/Toast/Glider.Toast.asmdef
+- al_max_export_path-Glider/Modules/Web/Glider.Web.asmdef
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Web/Glider.Core.Web.asmdef
+- gd_glider_export_path-Glider/Core/Modules/Web/Glider.Web.asmdef
+- gd_glider_export_path-Glider/Modules/Web/Glider.Web.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

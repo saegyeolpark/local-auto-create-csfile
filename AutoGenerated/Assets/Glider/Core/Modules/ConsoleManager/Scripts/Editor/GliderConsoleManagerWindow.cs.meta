@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4eeccc6a38f06b64ca5e24b71ea0214b
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/IntegrationManager/Editor/AppLovinIntegrationManagerWindow.cs
+- gd_glider
+- gd_glider_export_path-Glider/Core/CenterManager/Editor/GliderCenterManagerWindow.cs
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Editor/GliderCenterManagerWindow.cs
+- gd_glider_export_path-Glider/Core/Modules/CenterManager/Scripts/Editor/GliderCenterManagerWindow.cs
+- gd_glider_export_path-Glider/Core/Modules/ConsoleManager/Scripts/Editor/GliderCenterManagerWindow.cs
+- gd_glider_export_path-Glider/Core/Modules/ConsoleManager/Scripts/Editor/GliderConsoleManagerWindow.cs
+- gd_glider_export_path-Glider/Modules/CenterManager/Editor/GliderCenterManagerWindow.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

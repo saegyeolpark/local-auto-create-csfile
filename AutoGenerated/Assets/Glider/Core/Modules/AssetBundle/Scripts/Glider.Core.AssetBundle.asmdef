@@ -1,0 +1,22 @@
+{
+    "name": "Glider.Core.AssetBundle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6284a7d0a4ec16e468d5673f5db2efc5",
+        "GUID:0bc76551a7c67be4b8769ac62b39050b",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:593a5b492d29ac6448b1ebf7f035ef33",
+        "GUID:ba77d451c9b131144a06a246cbf8b257"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

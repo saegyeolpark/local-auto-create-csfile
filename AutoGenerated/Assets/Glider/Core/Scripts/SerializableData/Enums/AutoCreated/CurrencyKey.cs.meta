@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 203e85ec19e8d0245ba4f2e8b4c5396f
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/Enums/AutoCreated/CurrencyKey.cs
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/Enums/CurrencyKey.cs
+- gd_glider_export_path-Glider/Core/Scritps/SerializableData/Enums/CurrencyKey.cs
+- gd_glider_export_path-Glider/Core/SerializableData/Enums/CurrencyKey.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

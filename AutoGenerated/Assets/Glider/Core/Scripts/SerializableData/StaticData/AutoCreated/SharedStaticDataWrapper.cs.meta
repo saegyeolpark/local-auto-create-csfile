@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d93a1caec4554494b815c563c82a23cc
+labels:
+- al_max
+- al_max_export_path-Glider/Demo/SerializableData/StaticData/SharedStaticDataWrapperForPlayer.cs
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/StaticData/AutoCreated/SharedStaticDataWrapper.cs
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/StaticData/SharedStaticDataWrapper.cs
+- gd_glider_export_path-Glider/Core/Scritps/SerializableData/StaticData/SharedStaticDataWrapper.cs
+- gd_glider_export_path-Glider/Core/SerializableData/StaticData/SharedStaticDataWrapper.cs
+- gd_glider_export_path-Glider/Demo/Modules/StaticData/Scripts/SerializableData/SharedStaticDataWrapperForPlayer.cs
+- gd_glider_export_path-Glider/Demo/SerializableData/StaticData/SharedStaticDataWrapperForPlayer.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11ab55cdc0c3d3448818f5c3160b32cf
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/CenterManager
+- gd_glider_export_path-Glider/Core/Modules/CenterManager
+- gd_glider_export_path-Glider/Core/Modules/ConsoleManager
+- gd_glider_export_path-Glider/Modules/CenterManager
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

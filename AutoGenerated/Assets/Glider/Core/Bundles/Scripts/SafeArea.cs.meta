@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 502c79898d004e84284c15ab2bdb2047
+labels:
+- al_max
+- al_max_export_path-Glider/Bundles/Scripts/SafeArea.cs
+- gd_glider
+- gd_glider_export_path-Glider/Bundles/Scripts/SafeArea.cs
+- gd_glider_export_path-Glider/Core/Bundles/Scripts/SafeArea.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cdc8bd40e6bc44e90b6532c724f5fe18
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Bundles/Scripts/Gd/GdButton.cs
+- al_max_export_path-Glider/Bundles/Scripts/Gd/GdButton.cs
+- al_max_export_path-Glider/Bundles/Scripts/View/GliderButton.cs
+- gd_glider
+- gd_glider_export_path-Glider/Bundles/Scripts/View/GliderButton.cs
+- gd_glider_export_path-Glider/Core/Bundles/Scripts/View/GliderButton.cs
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/GliderButton.cs
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/Scripts/GliderButton.cs
+- gd_glider_export_path-Glider/Core/Modules/Ui/Scripts/Bundles/GliderButton.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cddfd04def894ae3bde089ceb57dfc5d
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/SerializableData
+- al_max_export_path-Glider/SerializableData
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData
+- gd_glider_export_path-Glider/Core/Scritps/SerializableData
+- gd_glider_export_path-Glider/Core/SerializableData
+- gd_glider_export_path-Glider/SerializableData
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

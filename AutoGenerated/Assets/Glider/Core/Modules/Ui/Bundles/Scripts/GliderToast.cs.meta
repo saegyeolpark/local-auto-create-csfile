@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 82fe146750aa6384aad7055dd4674ad2
+labels:
+- al_max
+- al_max_export_path-Glider/Modules/Toast/Bundles/ViewCanvasToast.cs
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/Scripts/GliderToast.cs
+- gd_glider_export_path-Glider/Modules/Toast/Bundles/ViewCanvasToast.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

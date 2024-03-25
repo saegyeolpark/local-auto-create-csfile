@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44de4682522e34a47af6a4e5a8c909c2
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/Enums/AcquirableAssetType.cs
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/Enums/AutoCreated/AcquirableAssetType.cs
+- gd_glider_export_path-Glider/Core/Scritps/SerializableData/Enums/AcquirableAssetType.cs
+- gd_glider_export_path-Glider/Core/SerializableData/Enums/AcquirableAssetType.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

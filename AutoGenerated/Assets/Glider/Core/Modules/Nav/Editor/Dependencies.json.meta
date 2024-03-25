@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: becd4c3573d1f1b489396ca0a3b89cb8
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Nav/Editor/Dependencies.json
+- gd_glider_export_path-Glider/Modules/Nav/Editor/Dependencies.json
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 809a2590c4c91824d82f75d828c51fcf
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Bundles/Scenes
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Scenes
+- gd_glider_export_path-Glider/Core/Modules/IAP/Scenes
+- gd_glider_export_path-Glider/Core/Modules/Purchase/Bundles/Scenes
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

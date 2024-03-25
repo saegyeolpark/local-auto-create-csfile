@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f5b874ab8ca917d4bb513cda1640b143
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/Prefabs/Resources/GliderAlert.prefab
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/Prefabs/Resources/GliderAlertOrPrompt.prefab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4dd5cd3fe090e974d9dd6e5c5afe679f
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Scripts/Editor/MaxInitialization.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

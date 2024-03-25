@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 498b84a7a4d7de142a940da7d6449c92
+labels:
+- al_max
+- al_max_export_path-Glider/Modules/Web/RequestHandler.cs
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Web/RequestHandler.cs
+- gd_glider_export_path-Glider/Modules/Web/RequestHandler.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

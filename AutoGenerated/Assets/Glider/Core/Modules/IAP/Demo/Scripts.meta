@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 24ae59ca6db31974eb3e83d06d51765e
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Bundles/Scripts
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Scripts
+- gd_glider_export_path-Glider/Core/Modules/Purchase/Bundles/Scripts
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

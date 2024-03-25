@@ -1,0 +1,23 @@
+{
+    "name": "Glider.Core.Cloud",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6284a7d0a4ec16e468d5673f5db2efc5",
+        "GUID:0bc76551a7c67be4b8769ac62b39050b",
+        "GUID:db007a409e48eca4f9269f9e3758a3b6",
+        "GUID:8654b06264a7ae342a0ceffd1636ea00",
+        "GUID:0d8e81f01ce67bb488708a4ea5799d9a",
+        "GUID:b2ff0c29e4a9a55448766c191fcd3a53",
+        "GUID:ba7afb8fde8d3464f97f34be3be24bd9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

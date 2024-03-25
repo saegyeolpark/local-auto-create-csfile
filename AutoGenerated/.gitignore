@@ -79,11 +79,11 @@ crashlytics-build.properties
 # End of https://www.toptal.com/developers/gitignore/api/unity
 
 
-[Aa]ssets/[Cc]loudData/
-[Aa]ssets/[Cc]loudData.meta
+[Aa]ssets/[Ll]ocalCreated/[Cc]loudData/
+[Aa]ssets/[Ll]ocalCreated/[Cc]loudData.meta
 
-[Aa]ssets/[Ee]nums/
-[Aa]ssets/[Ee]nums.meta
+[Aa]ssets/[Ll]ocalCreated/[Ee]nums/
+[Aa]ssets/[Ll]ocalCreated/[Ee]nums.meta
 
-[Aa]ssets/[Ss]taticData/
-[Aa]ssets/[Ss]taticData.meta
+[Aa]ssets/[Ll]ocalCreated/[Ss]taticData/
+[Aa]ssets/[Ll]ocalCreated/[Ss]taticData.meta

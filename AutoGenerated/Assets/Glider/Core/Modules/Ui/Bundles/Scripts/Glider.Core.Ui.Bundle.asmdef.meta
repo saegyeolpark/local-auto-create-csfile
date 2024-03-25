@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 495361b59bbb30940816d3b5b43aceef
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Modules/StaticData/Manager/Glider.StaticDataManager.asmdef
+- al_max_export_path-Gameduo/Glider/Modules/StaticDataLoader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Gameduo/Glider/StaticDataLoader/Glider.StaticDataLoader.asmdef
+- al_max_export_path-Glider/Modules/StaticData/Manager/Glider.StaticDataManager.asmdef
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Auth/Glider.Core.Auth.asmdef
+- gd_glider_export_path-Glider/Core/Modules/Auth/Scripts/Glider.Core.Auth.asmdef
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Glider.Core.StaticData.asmdef
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Manager/Scripts/Glider.Core.StaticData.Manager.asmdef
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Manager/Scripts/Glider.Core.StaticData.asmdef
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Manager/Scripts/GliderDemo.StaticData.asmdef
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Scripts/Glider.Core.StaticData.asmdef
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/Glider.Core.Ui.Bundle.asmdef
+- gd_glider_export_path-Glider/Core/Modules/Ui/Bundles/Scripts/Glider.Core.Ui.Bundle.asmdef
+- gd_glider_export_path-Glider/Core/Modules/Ui/Scripts/Bundles/Glider.Core.Ui.Bundle.asmdef
+- gd_glider_export_path-Glider/Core/Scripts/StaticData/Manager/Glider.StaticDataManager.asmdef
+- gd_glider_export_path-Glider/Demo/Modules/StaticData/Scripts/GliderDemo.StaticData.asmdef
+- gd_glider_export_path-Glider/Modules/StaticData/Manager/Glider.StaticDataManager.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

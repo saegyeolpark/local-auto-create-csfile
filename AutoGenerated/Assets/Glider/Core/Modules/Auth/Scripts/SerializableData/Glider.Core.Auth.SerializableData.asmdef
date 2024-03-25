@@ -1,0 +1,14 @@
+{
+    "name": "Glider.Core.Auth.SerializableData",
+    "rootNamespace": "",
+    "references": ["GUID:8654b06264a7ae342a0ceffd1636ea00"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

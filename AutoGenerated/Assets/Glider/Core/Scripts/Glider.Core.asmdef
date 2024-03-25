@@ -1,0 +1,20 @@
+{
+    "name": "Glider.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3729d45826058c9449b48077f1db2bdf",
+        "GUID:0bc76551a7c67be4b8769ac62b39050b",
+        "GUID:6284a7d0a4ec16e468d5673f5db2efc5",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:8654b06264a7ae342a0ceffd1636ea00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

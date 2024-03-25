@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f7b0b102c0081084ca9e3fb87c53b639
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/IAP/Scripts/Glider.Core.IAP.asmdef
+- gd_glider_export_path-Glider/Core/Modules/IAP/Scripts/Glider.Core.Iap.asmdef
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

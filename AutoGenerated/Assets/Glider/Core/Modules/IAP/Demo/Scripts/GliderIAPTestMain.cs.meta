@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2e8864e75da936468d50056c25f7d8e
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Bundles/Scripts/GliderIAPTestMain.cs
+- gd_glider_export_path-Glider/Core/Modules/IAP/Demo/Scripts/GliderIAPTestMain.cs
+- gd_glider_export_path-Glider/Core/Modules/IAP/Scripts/GliderIAPTestMain.cs
+- gd_glider_export_path-Glider/Core/Modules/Purchase/Bundles/Scripts/GliderIAPTestMain.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

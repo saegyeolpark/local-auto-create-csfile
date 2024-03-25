@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b3f7ef8519d4d4f47a91e05d5988d66e
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/AcquirableAsset.cs
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/AutoCreated/AcquirableAsset.cs
+- gd_glider_export_path-Glider/Core/Scritps/SerializableData/AcquirableAsset.cs
+- gd_glider_export_path-Glider/Core/SerializableData/AcquirableAsset.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

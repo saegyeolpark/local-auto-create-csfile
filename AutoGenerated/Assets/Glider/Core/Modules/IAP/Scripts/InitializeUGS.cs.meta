@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3d3328b5eeaab045a17c34447e80317
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/IAP/Scripts/InitializeUGS.cs
+- gd_glider_export_path-Glider/Core/Modules/Purchase/Scripts/InitializeUGS.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

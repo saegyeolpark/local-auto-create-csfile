@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 733bc709a269c274b84f59f56a9846b2
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Resources/GrayScaleShader.shader
+- al_max_export_path-Glider/Resources/GrayScaleShader.shader
+- gd_glider
+- gd_glider_export_path-Glider/Core/Resources/GrayScaleShader.shader
+- gd_glider_export_path-Glider/Resources/GrayScaleShader.shader
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

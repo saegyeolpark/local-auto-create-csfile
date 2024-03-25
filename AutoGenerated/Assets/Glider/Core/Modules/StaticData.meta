@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e82edd6e62a718a4fa36aabb17d2672d
+labels:
+- al_max
+- al_max_export_path-Gameduo/Glider/Modules/StaticData
+- al_max_export_path-Glider/Modules/StaticData
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/StaticData
+- gd_glider_export_path-Glider/Core/Scripts/StaticData
+- gd_glider_export_path-Glider/Modules/StaticData
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

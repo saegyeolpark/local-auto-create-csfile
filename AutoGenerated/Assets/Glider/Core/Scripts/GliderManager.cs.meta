@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c9154b628385cda4dae0e7c07c760f0e
+labels:
+- al_max
+- al_max_export_path-Glider/Modules/Core/GliderManager.cs
+- gd_glider
+- gd_glider_export_path-Glider/Core/GliderManager.cs
+- gd_glider_export_path-Glider/Core/Scripts/GliderManager.cs
+- gd_glider_export_path-Glider/Core/Scritps/GliderManager.cs
+- gd_glider_export_path-Glider/Modules/Core/GliderManager.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

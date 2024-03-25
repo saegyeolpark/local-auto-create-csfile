@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5b31a1e9da19280438a8427c998f16a2
+labels:
+- al_max
+- al_max_export_path-Glider/Modules/StaticData/Manager/Scripts
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Manager/Scripts
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Scripts
+- gd_glider_export_path-Glider/Core/Scripts/StaticData/Manager/Scripts
+- gd_glider_export_path-Glider/Demo/Modules/StaticData/Scripts
+- gd_glider_export_path-Glider/Modules/StaticData/Manager/Scripts
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

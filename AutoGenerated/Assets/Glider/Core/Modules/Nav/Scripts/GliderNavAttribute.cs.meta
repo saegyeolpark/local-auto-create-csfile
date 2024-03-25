@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e662411a98dad840b8be9f0ae9b52ed
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/Nav/Scripts/GliderNavAttribute.cs
+- gd_glider_export_path-Glider/Modules/Nav/Scripts/GliderNavAttribute.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

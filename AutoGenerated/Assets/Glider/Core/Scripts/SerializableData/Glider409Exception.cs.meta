@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3c245980bec4819ad0ae2169e26aa2b
+labels:
+- gd_glider
+- gd_glider_export_path-Glider/Core/Modules/StaticData/Scripts/Glider409Exception.cs
+- gd_glider_export_path-Glider/Core/Scripts/SerializableData/Glider409Exception.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

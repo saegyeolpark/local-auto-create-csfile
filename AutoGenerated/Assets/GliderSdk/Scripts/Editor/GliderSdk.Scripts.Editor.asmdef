@@ -1,0 +1,19 @@
+{
+    "name": "Glider.Scripts.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GliderSdk.Scripts.IntegrationManager.Editor",
+        "GliderSdk.Scripts"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

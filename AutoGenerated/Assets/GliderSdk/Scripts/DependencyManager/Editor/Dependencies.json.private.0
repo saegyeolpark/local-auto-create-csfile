@@ -1,0 +1,463 @@
+{
+  "module": [
+    {
+      "moduleName": "GliderCore",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.1",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.2",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.3",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.4",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.5",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.6",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.7",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.8",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.9",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        },
+        {
+          "version": "1.0.11",
+          "unity": [
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+          ]
+        }
+      ]
+    },
+    {
+      "moduleName": "Demo",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.1",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.2",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.3",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.4",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.5",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.6",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.7",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.8",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.9",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.10",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.11",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        }
+      ]
+    },
+    {
+      "moduleName": "Demo_VL",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.1",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.2",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.3",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.4",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.5",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        },
+        {
+          "version": "1.0.9",
+          "unity": [
+            "com.unity.textmeshpro@3.0.6",
+            "com.unity.nuget.newtonsoft-json@3.2.1",
+            "com.unity.addressables@1.21.19",
+            "com.unity.services.ccd.management@2.2.2",
+            "com.unity.purchasing@4.10.0"
+          ],
+          "glider": [
+            "GliderCore",
+            "SpriteFont",
+            "SpriteEffect",
+            "Loading",
+            "Logo"
+          ]
+        }
+      ]
+    }
+  ]
+}
