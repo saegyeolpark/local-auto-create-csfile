@@ -13,7 +13,7 @@
 
 </br>
 
-## 3. apiFile.json 수정
+## 3. apiFile.json 수정 (선택)
 ***apiFile.json***은 로컬생성에 참고할 프리셋 데이터입니다.  
 새로운 데이터를 적용하고 싶다면, postman api에서 반환받은 json을 붙여넣기합니다.  
 API: *{{BASE_URL}}/admin/sheet/list/convert-before-data?target=CSharp&version=1.0.0*  
