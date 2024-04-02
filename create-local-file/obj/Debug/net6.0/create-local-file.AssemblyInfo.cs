@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("create-local-file")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e81a71554fed78fe451a3f2bd0204601bd58c105")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000fcef8c6bea6895ca49bd395b3ee7736ecdf82")]
 [assembly: System.Reflection.AssemblyProductAttribute("create-local-file")]
 [assembly: System.Reflection.AssemblyTitleAttribute("create-local-file")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

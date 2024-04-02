@@ -16,7 +16,7 @@ MonoBehaviour:
   sdkKey: 
   initializeOnAwake: 0
   env: 0
-  liveConfigUrl: https://[LIVE_CDN_NAME].cloudfront.net/config.json
-  sandboxConfigUrl: https://[SANDBOX_CDN_NAME].cloudfront.net/config.json
-  localConfigUrl: https://[SANDBOX_CDN_NAME].cloudfront.net/config.json
+  liveConfigUrl: 
+  sandboxConfigUrl: 
+  localConfigUrl: 
   photonAppId: 

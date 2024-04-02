@@ -8,5 +8,10 @@ namespace Glider.Core.SerializableData
     {
         public bool IsDirty { get; protected set; }
         protected List<int> _crcCodes = new();
+
+        public void ClearDirty()
+        {
+            IsDirty = false;
+        }
     }
 }

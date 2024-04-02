@@ -8091,7 +8091,7 @@
         {
             "id": 1,
             "type": "Node",
-            "name": "CharacterCurrency",
+            "name": "CloudDataCurrency",
             "csFilePath": "Assets/Glider/Core/Scripts/SerializableData/CloudData/AutoCreated",
             "csNamespace": "Glider.Core.SerializableData",
             "comment": "",
@@ -8311,7 +8311,7 @@
         {
             "id": 1,
             "cloudDataStructId": 1,
-            "type": "CharacterCurrency",
+            "type": "CloudDataCurrency",
             "name": "currency",
             "isList": true,
             "comment": ""
