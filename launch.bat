@@ -1,6 +1,6 @@
 :: **********************************
 :: modify path
-set git_path="C:\Users\GAME DUO\Desktop\auto-create-csfile"
+set git_path="C:\Users\PSG\Desktop\auto-create-csfile"
 :: **********************************
 
 

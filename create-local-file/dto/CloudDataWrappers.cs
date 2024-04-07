@@ -8,6 +8,8 @@ namespace glider.dto
 		public string name;
 		public bool isList;
 		public string comment;
+		public string pkFieldType;
+		public string pkFIeldName;
 
         public CloudDataWrappers()
 		{
